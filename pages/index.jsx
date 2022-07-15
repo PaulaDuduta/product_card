@@ -9,7 +9,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main className="content-wrapper container">
+      <main className="content-wrapper">
         <div className="brand-image">
           {/* <picture>
             <source
@@ -56,19 +56,19 @@ export default function Home() {
             </button>
           </footer>
         </div>
-      </main>
 
-      <div className="attribution text-center d-md-block d-none fw-bold">
-        Challenge by{' '}
-        <a
-          href="https://www.frontendmentor.io?ref=challenge"
-          target="_blank"
-          rel="noreferrer"
-        >
-          Frontend Mentor
-        </a>
-        . Coded by <a href="#">Paula D</a>.
-      </div>
+        <div className="attribution text-center d-md-block d-none fw-bold">
+          Challenge by{' '}
+          <a
+            href="https://www.frontendmentor.io?ref=challenge"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Frontend Mentor
+          </a>
+          . Coded by <a href="#">Paula D</a>.
+        </div>
+      </main>
     </div>
   );
 }
