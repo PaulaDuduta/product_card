@@ -1,0 +1,16 @@
+@import './fonts';
+
+@import '~bootstrap/scss/bootstrap-reboot.scss';
+@import '~bootstrap/scss/bootstrap-grid.scss';
+@import '~bootstrap/scss/bootstrap-utilities.scss';
+
+@import 'variables';
+@import 'reset';
+
+@import './content/index';
+
+body {
+  background-color: $cream;
+  font-size: 14px;
+  font-family: 'Montserrat', sans-serif;
+}
