@@ -4,7 +4,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ## Overview
 
-This was my first challenge to make on Frontend Mentor and represents a product preview card for a perfume for two resolutions (desktop and mobile devices). No matter is a basic project, to realise it I've used Next.js technology and then to publish it as a website I've used Netlify (https://fantastic-daifuku-163de3.netlify.app).
+This was my first challenge to make on Frontend Mentor and represented a product preview card for a perfume for two resolutions (desktop and mobile devices). For my project implementation I've used Next.js framweork and Netlify to publish it online (https://fantastic-daifuku-163de3.netlify.app).
 
 ### The challenge
 
